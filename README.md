@@ -1,1 +1,0 @@
-# bartsam.github.io
