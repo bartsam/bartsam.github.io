@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9965384f.css",
-    "main.js": "/static/js/main.5bf3f131.js",
-    "static/media/CV-SamuelBart.pdf": "/static/media/CV-SamuelBart.6362857b3e33989834ef.pdf",
+    "main.js": "/static/js/main.3cf5ff5c.js",
+    "static/media/CV-SamuelBart.pdf": "/static/media/CV-SamuelBart.111654e121d5689a717a.pdf",
     "index.html": "/index.html",
     "main.9965384f.css.map": "/static/css/main.9965384f.css.map",
-    "main.5bf3f131.js.map": "/static/js/main.5bf3f131.js.map"
+    "main.3cf5ff5c.js.map": "/static/js/main.3cf5ff5c.js.map"
   },
   "entrypoints": [
     "static/css/main.9965384f.css",
-    "static/js/main.5bf3f131.js"
+    "static/js/main.3cf5ff5c.js"
   ]
 }
